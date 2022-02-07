@@ -30,6 +30,8 @@ Following Udemy course "Golang Microservices: Breaking a Monolith to Microservic
 
 1. TODO
 
+### App: react-ambassador
+
 1. react-admin
   1. `npm start`
   2. First time set-up: Go to http://localhost:3000/register to create a new user. Use `a` for all entries except email, which will be `a@a.com`.
