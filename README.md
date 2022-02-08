@@ -28,7 +28,7 @@ Following Udemy course "Golang Microservices: Breaking a Monolith to Microservic
 
 ### App: go-ambassador:
 
-1. TODO
+1. `docker-compose up`.
 
 ### App: react-ambassador
 
@@ -47,3 +47,7 @@ Following Udemy course "Golang Microservices: Breaking a Monolith to Microservic
 3. next-checkout
   1. `npm run dev`
   2. Go to http://localhost:5000
+
+## Set up Stripe account
+
+1. In order to add the Stripe keys, go to [stripe](https://stripe.com/) and create an account.
